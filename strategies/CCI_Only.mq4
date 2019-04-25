@@ -1,10 +1,10 @@
 //+------------------------------------------------------------------+
 //|                                                     CCI Only.mq4 |
 //|                                                   Master-Ukulele |
-//|                                                             None |
+//|               github.com/Master-Ukulele/Commodity-Channel-Index/ |
 //+------------------------------------------------------------------+
 #property copyright "Master-Ukulele"
-#property link      "None"
+#property link      "github.com/Master-Ukulele/Commodity-Channel-Index/"
 #property version   "1.00"
 #property strict
 
